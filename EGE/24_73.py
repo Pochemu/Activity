@@ -1,4 +1,4 @@
-f = open('../../В процессе/24data/k8-4.txt')
+f = open('../../../В процессе/24data/k8-4.txt')
 s = f.readline()
 cnt_max, cnt = 1, 1
 chars = []

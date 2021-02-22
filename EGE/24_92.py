@@ -1,4 +1,4 @@
-f = open('../../В процессе/24data/24-1.txt')
+f = open('../../../В процессе/24data/24-1.txt')
 s = f.readline()
 cnt, cnt_max = 0, 0
 answer = []

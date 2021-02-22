@@ -1,4 +1,4 @@
-f = open('../../В процессе/24data/k7b-4.txt')
+f = open('../../../В процессе/24data/k7b-4.txt')
 s = f.readline()
 cnt, max_len = 0, 0
 for i in s:
