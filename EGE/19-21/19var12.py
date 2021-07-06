@@ -12,5 +12,5 @@ def f(k1, k2, w, step):
 	
 for s in range(1, 46):
 	if f(9, s, 55, 0):
-		print (s)
+		print(s)
 		break

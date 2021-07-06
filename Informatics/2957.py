@@ -1,0 +1,5 @@
+n = int(input())
+m = int(input())
+x = 1 * ((n % m) == 0) + 1 * ((m % n) == 0)
+x = 1 * (x == 2) + 1 * (x == 1)
+print(x)

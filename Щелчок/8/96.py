@@ -1,0 +1,1 @@
+print(int(str(3133), 4) - int(str(2323), 4) - 1)
